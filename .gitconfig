@@ -1,0 +1,8 @@
+[user]
+	name = “gitdeepak99”
+	email = “deepakbe99@gmail.com”
+[core]
+	editor = vim
+	compression = 2
+[diff]
+	tool = vim.diff
